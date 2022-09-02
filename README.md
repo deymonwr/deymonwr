@@ -21,7 +21,7 @@ oi, eu sou [Lucas machado], um apaixonado desenvolvedor web full stack autodidat
 eu também sou um entusiasta e mantenedor de código aberto. aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento aconteceram por meio do código aberto.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" / >
+  <img align="right" alt="GIF" src="https://github.com/deymonwr/deymonwr/blob/main/code.gif?raw=true" width="500" height="320" / >
   
 - 💼 algum trabalho freelance? entre em contato, [email](mailto:deymonmachado@gmail.com) :)
 - 💬 pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
@@ -38,7 +38,7 @@ eu também sou um entusiasta e mantenedor de código aberto. aprendi muito com a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **Esta semana eu gastei meu tempo em:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -63,7 +63,7 @@ se você gosta do que eu faço, talvez considere me comprar um café/chá 🥺�
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 Status no GITHUB!
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deymonwr&show_icons=true&theme=gotham" alt="Lucas Machado" />
 
