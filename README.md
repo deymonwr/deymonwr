@@ -21,7 +21,7 @@ oi, eu sou [Lucas machado], um apaixonado desenvolvedor web full stack autodidat
 eu também sou um entusiasta e mantenedor de código aberto. aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento aconteceram por meio do código aberto.
 
 
-  <img align="right" alt="GIF" src="https://github.com/deymonwr/deymonwr/blob/main/code.gif?raw=true" width="500" height="320" / >
+
   
 - 💼 algum trabalho freelance? entre em contato, [email](mailto:deymonmachado@gmail.com) :)
 - 💬 pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
